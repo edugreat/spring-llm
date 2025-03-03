@@ -1,2 +1,4 @@
-# spring-llm
-Budding large language model integration to spring boot backed projects
+
+I commit `code samples` on integration of LLM to spring boot powered applications.
+--
+[Resource guide](https://www.amazon.com/Mastering-Spring-AI-Developers-Generative/dp/B0DFPPKKRN)
